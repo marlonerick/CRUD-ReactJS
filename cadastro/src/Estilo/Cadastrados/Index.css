@@ -1,0 +1,12 @@
+.rows-color-table {
+    background: lightskyblue;
+}
+
+.alinhamento-botao {
+    display: flex;
+    justify-content: flex-end;
+    margin: 1vh;
+}
+.alinhamento-botao Button{
+    background-color: rgb(0, 157, 255);
+}

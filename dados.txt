@@ -1,0 +1,3 @@
+ip: local(127.0.0.1)
+user : root
+senha : 51027489
